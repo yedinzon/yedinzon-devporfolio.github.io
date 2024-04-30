@@ -6,7 +6,8 @@
         "title-page": "Portafolio - Yedinzon Toro Gil",
         "title": "Portafolio de <strong>Desarrollador</strong> Yedinzon Toro Gil",
         "description": "Desarrollador Back End",
-        "pagraf": "Este es un texto de <em>prueba</em> en español"
+        "pagraf": "Este es un texto de <em>prueba</em> en español",
+        "button-theme": "Cambiar Tema"
     },
     "en": {
         "option-es": "Spanish",
@@ -15,6 +16,7 @@
         "title-page": "Portfolio - Yedinzon Toro Gil",
         "title": "<strong>Developer</strong> Portfolio Yedinzon Toro Gil",
         "description": "Back End Developer",
-        "pagraf": "This is a <em>test</em> text in english"
+        "pagraf": "This is a <em>test</em> text in english",
+        "button-theme": "Change Theme"
     }
 }

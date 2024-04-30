@@ -1,0 +1,20 @@
+{
+    "es": {
+        "option-es": "Español",
+        "option-en": "Inglés",
+        "label-language": "Cambiar idioma",
+        "title-page": "Portafolio - Yedinzon Toro Gil",
+        "title": "Portafolio de <strong>Desarrollador</strong> Yedinzon Toro Gil",
+        "description": "Desarrollador Back End",
+        "pagraf": "Este es un texto de <em>prueba</em> en español"
+    },
+    "en": {
+        "option-es": "Spanish",
+        "option-en": "English",
+        "label-language": "Change language",
+        "title-page": "Portfolio - Yedinzon Toro Gil",
+        "title": "<strong>Developer</strong> Portfolio Yedinzon Toro Gil",
+        "description": "Back End Developer",
+        "pagraf": "This is a <em>test</em> text in english"
+    }
+}

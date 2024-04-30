@@ -1,3 +1,6 @@
+//////////////////
+// Change language
+//////////////////
 let fileLanguage = null;
 
 const chargeFilePrompts = async () => {
@@ -29,4 +32,21 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     // //when initializing the page charge the prompts, does not require default values ​​from the html
     // changeLanguage(languageSelected.value);
+});
+
+////////////////////
+// Change dark-theme
+////////////////////
+const themeToggle = document.getElementById('theme');
+const body = document.body;
+
+const savedTheme = localStorage.getItem('theme-portfolio-yedinzon');
+if (savedTheme) {
+    body.classList.add(savedTheme);
+}
+
+themeToggle.addEventListener('click', () => {
+    body.classList.toggle('dark-theme');
+    const theme = body.classList.contains('dark-theme') ? 'dark-theme' : '';
+    localStorage.setItem('theme-portfolio-yedinzon', theme);
 });

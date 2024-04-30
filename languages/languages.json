@@ -2,7 +2,7 @@
     "es": {
         "option-es": "Español",
         "option-en": "Inglés",
-        "label-language": "Cambiar idioma",
+        "label-language": "Cambiar idioma:",
         "title-page": "Portafolio - Yedinzon Toro Gil",
         "title": "Portafolio de <strong>Desarrollador</strong> Yedinzon Toro Gil",
         "description": "Desarrollador Back End",
@@ -11,7 +11,7 @@
     "en": {
         "option-es": "Spanish",
         "option-en": "English",
-        "label-language": "Change language",
+        "label-language": "Change language:",
         "title-page": "Portfolio - Yedinzon Toro Gil",
         "title": "<strong>Developer</strong> Portfolio Yedinzon Toro Gil",
         "description": "Back End Developer",
